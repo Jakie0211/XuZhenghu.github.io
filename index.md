@@ -11,27 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 心得体会
 ## Header 2
 ### Header 3
+一开始听github以为又要花好多时间去学了，第一次打开纯英文的界面看上去也很高端.....但当你接触下去会发现这是一个很好上手，很实用的代码管理工具。个人感觉这个有点类似公共网盘，又有点像社交编程。
 
-- Bulleted
-- List
+通过使用git，可以很轻松的将代码库下载下来，之后修改后进行上传。搭档写的代码和进度也可以在web端看的很清楚。对于不在一起的开发者，解决了进度情况沟通的麻烦。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jakie0211/XuZhenghu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+还有,初次使用markdowm略显稚嫩。只能简单的使用下大小标题，插入图片等，以后还要多多使用，提高熟练度。

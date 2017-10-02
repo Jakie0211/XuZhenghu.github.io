@@ -1,9 +1,9 @@
 # Welcome to Jakie Xu's page
 
-**这是我的网站的地址
-_https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md
+**这是我的网站的地址**
+_https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md_
 
-~~全英文眼睛都要瞎了
+~~全英文眼睛都要瞎了~~
 
 ## 心得体会: :+1:
 

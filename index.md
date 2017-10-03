@@ -13,4 +13,4 @@ _https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md_
 
 还有,初次使用markdowm略显稚嫩。只能简单的使用下大小标题，插入图片等，以后还要多多使用，提高熟练度。
 
-![](XuZhenghu.github.io/图片3.png)
+![img](./图片3.png)

@@ -12,3 +12,5 @@ _https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md_
 通过使用git，可以很轻松的将代码库下载下来，之后修改后进行上传。搭档写的代码和进度也可以在web端看的很清楚。对于不在一起的开发者，解决了进度情况沟通的麻烦。
 
 还有,初次使用markdowm略显稚嫩。只能简单的使用下大小标题，插入图片等，以后还要多多使用，提高熟练度。
+
+![](https://github.com/Jakie0211/XuZhenghu.github.io/blob/master/%E5%9B%BE%E7%89%873.png)

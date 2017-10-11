@@ -1,7 +1,7 @@
 # Welcome to Jakie Xu's page
 
 **这是我的网站的地址**
-_https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md_
+_https://jakie0211.github.io/XuZhenghu.github.io/_
 
 ~~全英文眼睛都要瞎了~~
 

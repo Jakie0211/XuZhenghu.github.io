@@ -15,4 +15,4 @@ _https://github.com/Jakie0211/XuZhenghu.github.io/edit/master/index.md_
 
 ![img](./图片3.png)
 
-[点这里点这里!](https://github.com/Jakie0211/XuZhenghu.github.io/blob/master/README.md)
+[点这里点这里!](XuZhenghu.github.io/README.md)
